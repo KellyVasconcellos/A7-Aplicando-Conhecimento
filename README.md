@@ -10,7 +10,7 @@ A base de dados foi criada a partir de dados públicos do Sistema Único de Saú
 
 ## Links Importantes
 
-- [Base de Dados SUS (2025)]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1uL2s6hBSBHKLRLoixv3p7Brgc2AQjVJE/view?usp=sharing)) - Link para download da base de dados.
+- [Base de Dados SUS (2025)](https://drive.google.com/file/d/1uL2s6hBSBHKLRLoixv3p7Brgc2AQjVJE/view?usp=sharing) - Link para download da base de dados.
 - [Vídeo do Projeto no YouTube](https://www.youtube.com/your-video-link-here) - Link para o vídeo de apresentação do projeto.
 
 ## Modelos Utilizados
